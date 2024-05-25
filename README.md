@@ -2,7 +2,7 @@
 These are some of the before and after wireframe design comparison for a mobile app that helps users make friends.
 
 Mockup for the app:
-![mock up for vid](https://github.com/ggraciela/WorkInProgress/assets/94437215/de0a6d24-a9fc-4c71-9167-b49fb08c7b05)
+![mock ups](https://github.com/ggraciela/WorkInProgress/assets/94437215/0a6569c6-9acf-4983-b562-30c64806f7c6)
 
 
 Fixing wireframe design for a mobile app:
