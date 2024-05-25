@@ -12,10 +12,11 @@ Fixing wireframe design for a mobile app:
 ![Screenshot 2024-05-22 231948](https://github.com/ggraciela/WorkInProgress/assets/94437215/179dcde8-a91d-463c-8671-d378609329b5)
 
 - Profile page looks more elegant, with more options as well
-![Screenshot 2024-05-22 232411](https://github.com/ggraciela/WorkInProgress/assets/94437215/d630d53e-20b3-4265-98c3-6b1d3076aea4)
+![image](https://github.com/ggraciela/UI-UX_Design/assets/94437215/0d8c52c3-fa84-41a1-9e3a-78f314006fb0)
+
 
 - Previously, matching with and viewing other user's profile looked like a dating app, now it suits a friendship app better
-![Screenshot 2024-05-22 233050](https://github.com/ggraciela/WorkInProgress/assets/94437215/e9136889-f3ef-403a-bc67-20c5ee91a0e5)
+![image](https://github.com/ggraciela/UI-UX_Design/assets/94437215/cf41aa78-de24-44e9-a5b1-38880ee1e522)
 
 
 In addition, I also created a mockup for the app:
