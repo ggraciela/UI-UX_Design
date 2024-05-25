@@ -16,4 +16,4 @@ Fixing wireframe design for a mobile app:
 
 
 In addition, I also created a mockup for the app:
-![mock ups](https://github.com/ggraciela/WorkInProgress/assets/94437215/ddc92925-3e2d-4278-9319-7233bd510310)
+![mock ups](https://github.com/ggraciela/UI-UX_Design/assets/94437215/67d3e851-80cb-4c64-b7ce-18d6df1d73ea)
