@@ -2,7 +2,8 @@
 These are some of the before and after wireframe design comparison for a mobile app that helps users make friends.
 
 Mockup for the app:
-![mock ups](https://github.com/ggraciela/WorkInProgress/assets/94437215/7fe730ce-181b-4768-8d58-3d34e372ed14)
+![mock ups](https://github.com/ggraciela/WorkInProgress/assets/94437215/ddc92925-3e2d-4278-9319-7233bd510310)
+
 
 Fixing wireframe design for a mobile app:
 - Making the landing page more modern
