@@ -1,9 +1,5 @@
-# Work in Progress
+# UI/UX Design Improvements
 These are some of the before and after wireframe design comparison for a mobile app that helps users make friends.
-
-Mockup for the app:
-![mock ups](https://github.com/ggraciela/WorkInProgress/assets/94437215/ddc92925-3e2d-4278-9319-7233bd510310)
-
 
 Fixing wireframe design for a mobile app:
 - Making the landing page more modern
@@ -17,3 +13,7 @@ Fixing wireframe design for a mobile app:
 
 - Previously, matching with and viewing other user's profile looked like a dating app, now it suits a friendship app better
 ![Screenshot 2024-05-22 233050](https://github.com/ggraciela/WorkInProgress/assets/94437215/e9136889-f3ef-403a-bc67-20c5ee91a0e5)
+
+
+In addition, I also created a mockup for the app:
+![mock ups](https://github.com/ggraciela/WorkInProgress/assets/94437215/ddc92925-3e2d-4278-9319-7233bd510310)
