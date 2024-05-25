@@ -6,7 +6,7 @@ Fixing wireframe design for a mobile app:
 ![Screenshot 2024-05-22 230736](https://github.com/ggraciela/WorkInProgress/assets/94437215/4b98f8c8-794c-4637-b384-08819ebcf753)
 
 - A more engaging look for the sign-up page
-![image](https://github.com/ggraciela/UI-UX_Design/assets/94437215/82270fa7-dc16-4ce9-9049-0df7e8111d3d)
+![image](https://github.com/ggraciela/UI-UX_Design/assets/94437215/d054b9a8-255f-4543-89fd-980fee4d7248)
 
 - The chatroom now feels more real and focused for users to get into a deeper conversation
 ![Screenshot 2024-05-22 231948](https://github.com/ggraciela/WorkInProgress/assets/94437215/179dcde8-a91d-463c-8671-d378609329b5)
