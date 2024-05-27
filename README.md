@@ -1,9 +1,9 @@
 # UI/UX Design Improvements
 These are some of the before and after wireframe design comparison for a mobile app that helps users make friends.
 
-- The more detailed Figma wireflow is available to view right here: https://www.figma.com/design/NH5NypHMzAM1o22kiRNjVH/before-%26-after-comparison?node-id=3-63&t=HfRIfJjBH6kIc4eF-1 
-- while the high-fidelity prototype is available to view here: https://www.figma.com/proto/NH5NypHMzAM1o22kiRNjVH/before-%26-after-comparison?node-id=10-49&t=WKwU1M1ic3VSRPa1-1&scaling=scale-down&page-id=3%3A63&starting-point-node-id=10%3A49
-- I also made a video demo of the prototype here: https://www.youtube.com/watch?v=nUmIhww26oY&feature=youtu.be 
+- The more detailed Figma wireflow is available to view right [here](https://www.figma.com/design/NH5NypHMzAM1o22kiRNjVH/before-%26-after-comparison?node-id=3-63&t=HfRIfJjBH6kIc4eF-1)
+- while the high-fidelity prototype is available to view [here](https://www.figma.com/proto/NH5NypHMzAM1o22kiRNjVH/before-%26-after-comparison?node-id=10-49&t=WKwU1M1ic3VSRPa1-1&scaling=scale-down&page-id=3%3A63&starting-point-node-id=10%3A49)
+- I also made a video demo of the prototype [here](https://www.youtube.com/watch?v=nUmIhww26oY&feature=youtu.be)
 
 Fixing wireframe design for a mobile app:
 - Making the landing page more modern
